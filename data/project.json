@@ -1,1 +1,112 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[{"login_name":"MauAg1985","avatar_url":"https://avatars.githubusercontent.com/u/143436034?v=4","admin":true}],"project":{"github_org":"MauAg1985","is_private":false,"title":"Prueba Scarpaci","description":"Derechos humanos | Acceso a la información | Minería de datos | Casos emblemáticos | Participación ciudadana","language":"en","slug":"pruebascarpaci","creator":"MauAg1985","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"category":"_uncategorized_","tag":"Derechos humanos"},{"category":"_uncategorized_","tag":"Acceso a la información"},{"category":"_uncategorized_","tag":"Minería de datos"},{"category":"_uncategorized_","tag":"Casos emblemáticos"},{"category":"_uncategorized_","tag":"Participación ciudadana"},{"category":"_uncategorized_","tag":"Caso ABC"},{"category":"_uncategorized_","tag":"Protección de datos personales"},{"category":"_uncategorized_","tag":"Acceso a la información pública"},{"category":"_uncategorized_","tag":"Violaciones graves a derechos humanos"},{"category":"_uncategorized_","tag":"Caso de referencia"},{"category":"_uncategorized_","tag":"Resguardo de información privada"},{"category":"_uncategorized_","tag":"Interés superior de la niñez"},{"category":"_uncategorized_","tag":"Plataforma Memoria y Verdad"}]},"created_at":"2025-12-16T22:31:21.824Z","updated_at":"2025-12-16T22:41:07.083Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"30a02ceb-4e54-421d-b125-8458f75c45c7":{"content":[],"created_at":"2025-12-16T22:31:21.850Z","created_by":"MauAg1985","title":"Prueba Scarpaci","updated_at":"2025-12-16T22:31:21.850Z","updated_by":"MauAg1985","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["30a02ceb-4e54-421d-b125-8458f75c45c7"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [
+    {
+      "login_name": "MauAg1985",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143436034?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "MauAg1985",
+    "is_private": false,
+    "title": "Prueba Scarpaci",
+    "description": "Derechos humanos | Acceso a la información | Minería de datos | Casos emblemáticos | Participación ciudadana",
+    "language": "en",
+    "slug": "pruebascarpaci",
+    "creator": "MauAg1985",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Derechos humanos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acceso a la información"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Minería de datos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Casos emblemáticos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Participación ciudadana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caso ABC"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Protección de datos personales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Acceso a la información pública"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Violaciones graves a derechos humanos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Caso de referencia"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Resguardo de información privada"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Interés superior de la niñez"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Plataforma Memoria y Verdad"
+        }
+      ]
+    },
+    "created_at": "2025-12-16T22:31:21.824Z",
+    "updated_at": "2025-12-16T22:41:08.710Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "30a02ceb-4e54-421d-b125-8458f75c45c7": {
+      "content": [],
+      "created_at": "2025-12-16T22:31:21.850Z",
+      "created_by": "MauAg1985",
+      "title": "Prueba Scarpaci",
+      "updated_at": "2025-12-16T22:31:21.850Z",
+      "updated_by": "MauAg1985",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "30a02ceb-4e54-421d-b125-8458f75c45c7"
+  ]
+}
