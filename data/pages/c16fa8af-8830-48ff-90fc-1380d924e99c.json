@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-12-16T22:34:35.799Z",
+  "created_by": "MauAg1985",
+  "title": "Video 1",
+  "slug": "video-1",
+  "updated_at": "2025-12-16T22:34:35.799Z",
+  "updated_by": "MauAg1985",
+  "parent": "30a02ceb-4e54-421d-b125-8458f75c45c7",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "5a47e7e3-6dd4-483c-9ffe-0f429bfdde29"
+  }
+}
